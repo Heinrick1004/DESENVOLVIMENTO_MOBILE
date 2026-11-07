@@ -1,0 +1,22 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+**/ios/Flutter/.last_build_id
+**/android/local.properties
+flutter-mobile/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+
+# Local outputs and temporary files
+*.apk
+*.aab
+*.log
+*.tmp
+UNIP_Desenvolvimento_Mobile_8_Roteiros_Entrega_Final.zip
